@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Abe\\.android\\build-cache\\dd3d8e65ad44d67e29392ad58cca860a91191645\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Abe\\.android\\build-cache\\dd3d8e65ad44d67e29392ad58cca860a91191645\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Abe\\.android\\build-cache\\dd3d8e65ad44d67e29392ad58cca860a91191645\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\karnik\\.android\\build-cache\\a31d41023ad3a6f42b712a3298dc7cbf971fb55f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Abe\\.android\\build-cache\\dd3d8e65ad44d67e29392ad58cca860a91191645\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\karnik\\.android\\build-cache\\a31d41023ad3a6f42b712a3298dc7cbf971fb55f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\karnik\\.android\\build-cache\\a31d41023ad3a6f42b712a3298dc7cbf971fb55f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Abe\\.android\\build-cache\\dd3d8e65ad44d67e29392ad58cca860a91191645\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\karnik\\.android\\build-cache\\a31d41023ad3a6f42b712a3298dc7cbf971fb55f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\karnik\\.android\\build-cache\\a31d41023ad3a6f42b712a3298dc7cbf971fb55f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Abe\\.android\\build-cache\\dd3d8e65ad44d67e29392ad58cca860a91191645\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\karnik\\.android\\build-cache\\a31d41023ad3a6f42b712a3298dc7cbf971fb55f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

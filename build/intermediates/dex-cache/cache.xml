@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b787e3434d60d2ce90b5b5743e5f58816f2ce23">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9bc6a547e91479192434c597c82eb05433959dd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\dd3d8e65ad44d67e29392ad58cca860a91191645\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2abfcf07cfc5b2ae1c3d33adaeb509a01f7b7a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\7b4f7ff8b2e3dd39953a6861e6cc0fc627957d4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b93bf2f5a886bd71ba84b7a0c16bba9429039c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\78d07f81bde511c8f61899544ff13a540b6d906f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2b120e8f945307d6bf51704c395d4cbf5364654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\c371a843c64652c71461e1c6f5594fd572d8fab2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1578b6fcdd7e59575ab6cb3c04166a8cfbaadde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\41d0f9e376a2c6418ce9b36fbe2cdd8a74cb58ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbb0b3e61d19dd82211f81415d48bd42909a1fcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_02e9573ed9557c036e0f020bb560d7f194f5893c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\f35ae46103c92efdfadc3bdbc535e7273491ab44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ea3189cec4a78f7870a7f576f9c961e5be7d0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\fa48e14e800386e60b0775712d907155f1d4701b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9eb06dabd1ed7775c117014b6da11c0c58dbfa92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\e48bc751c85658517010b3cf818da5cd903ae38f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d404fd82c31b4ceb75d6ff802690b62f6217108b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_e08b641585d1a56db3377846d685c6fa822b4b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\f22f572bd44f194c17bd0ae92fd3201bc841daf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f8f57a5f71849e97ba6419ac1cc212916e154d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\0e9cc00793c22c0b02696c26e1c54beda96aa68f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14eef2c9fc7d513177e6a062658b10bbd6902d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abe\.android\build-cache\6d6aa0154a8af1e7dbc4f35692f02639fce65b56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\Abe\StudioProjects\OpenBCIBLE\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca37b9c6eabdbd3ef80ab20af142e165c9210a87\classes.dex" />
+    </item>
+
+</items>

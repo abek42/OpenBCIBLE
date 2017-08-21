@@ -1,0 +1,7 @@
+#Mon Aug 21 19:46:19 BST 2017
+base.0=C\:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9bc6a547e91479192434c597c82eb05433959dd6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_02e9573ed9557c036e0f020bb560d7f194f5893c\\classes.dex
+base.1=C\:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_02e9573ed9557c036e0f020bb560d7f194f5893c
+file.0=C\:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9bc6a547e91479192434c597c82eb05433959dd6\\classes.dex

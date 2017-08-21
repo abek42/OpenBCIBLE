@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\karnik\\Dropbox\\Code-DB\\Android\\OpenBCIBLE\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Abe\\StudioProjects\\OpenBCIBLE\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]
